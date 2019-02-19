@@ -21,8 +21,8 @@ For this sample, we want you to:
 
 To take this code sample, we need you to:
 
-*   Download this repo, **do not fork it**.
+*   Download or fork this repo.
 *   Complete the exercise locally.
-*   Take the resulting code and **create your own GitHub repo**. 
+*   Take the resulting code and create your own GitHub repo. 
 *   Send the link back to your Aceable contact.
 *   Your code should be easy to run by following instructions in your README.md.
