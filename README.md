@@ -18,4 +18,6 @@ To take this code sample, we need you to:
 
 *   Download this repo, **do not fork it**.
 *   Complete the exercise locally.
-*   Zip up your resulting code and attach it in a reply to your contact at Aceable
+*   Take the resulting code and **create your own GitHub repo**. 
+*   Send the link back to your Aceable contact.
+*   Your code should be easy to run by following instructions in your README.md.
