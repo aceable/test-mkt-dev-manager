@@ -1,6 +1,11 @@
 # MKT Code Sample
 
-Aceable is getting into the flying robot pilot licensing market. As a marketing web developer and engineering manager, your job will be to create a landing page for our products and advise how you would document the task for future maintenance by your team.
+Aceable is getting into the flying robot pilot licensing market. As a marketing web developer, your job will be to create a landing page for our products and advise how you would document the task for future maintenance by your team. After you've finished this task, please answer the following questions as an engineering manager.
+
+1. If this sample needed scale to 100 similar front-facing sites (70% code reuse), how would you recommend building it?
+2. How many resources from your team would you need and how would you divide the work effort?
+3. What are your top three concerns for delivering any long term project?
+4. How do you guarantee your team delivers quality projects?
 
 ## Your Task
 
