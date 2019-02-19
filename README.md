@@ -15,7 +15,7 @@ For this sample, we want you to:
 *   Make a GET request to the products API endpoint at https://mkt-endpoint.now.sh/products
 *   Sort the products in the response by lowest price to highest.
 *   Iterate through each product and present the title, price **in US dollars**, and description of each.
-*   Attach a Markdown file with documentation on how to maintain your project and any concerns for scaling to a full site.
+*   Attach a Markdown file as `PROJECT.md`, answering the engineering manager questions above.
 
 ## How-To
 
